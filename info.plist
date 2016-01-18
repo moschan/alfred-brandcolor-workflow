@@ -18,14 +18,6 @@
 				<key>modifiersubtext</key>
 				<string></string>
 			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>352E3906-7991-41D9-BC8F-013729550373</string>
-				<key>modifiers</key>
-				<integer>1048576</integer>
-				<key>modifiersubtext</key>
-				<string>Cage open in browser</string>
-			</dict>
 		</array>
 	</dict>
 	<key>createdby</key>
@@ -92,23 +84,6 @@ require_once("main.php");</string>
 			<key>version</key>
 			<integer>0</integer>
 		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>plusspaces</key>
-				<false/>
-				<key>url</key>
-				<string>{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>352E3906-7991-41D9-BC8F-013729550373</string>
-			<key>version</key>
-			<integer>0</integer>
-		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -118,11 +93,6 @@ require_once("main.php");</string>
 		<dict>
 			<key>ypos</key>
 			<real>150</real>
-		</dict>
-		<key>352E3906-7991-41D9-BC8F-013729550373</key>
-		<dict>
-			<key>ypos</key>
-			<real>340</real>
 		</dict>
 		<key>91316D90-4247-4337-A464-E31C25493331</key>
 		<dict>
