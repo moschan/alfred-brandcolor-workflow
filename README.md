@@ -12,7 +12,7 @@ Installation
 
 You can download from here.
 
-[Download](https://github.com/moschan/alfred-brandcolor-workflow/archive/v1.0.zip)
+[Download](https://github.com/moschan/alfred-brandcolor-workflow/releases/download/ver1.0/BrandColor.alfredworkflow)
 
 
 Usage
